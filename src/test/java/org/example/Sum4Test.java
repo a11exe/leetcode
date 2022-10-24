@@ -17,5 +17,22 @@ class Sum4Test {
                 sum4.fourSum(new int[]{1,0,-1,0,-2,2}, 0));
     }
 
+    @Test
+    void test2() {
+        assertEquals(Arrays.asList(Arrays.asList(2,2,2,2)),
+                sum4.fourSum(new int[]{2,2,2,2,2}, 8));
+    }
+
+    @Test
+    void test3() {
+        assertEquals(Arrays.asList(),
+                sum4.fourSum(new int[]{0, 0, 0}, 0));
+    }
+
+    @Test
+    void test4() {
+        assertEquals(Arrays.asList(Arrays.asList(-3,-1,0,4)),
+                sum4.fourSum(new int[]{-3,-1,0,2,4,5}, 0));
+    }
 
 }
