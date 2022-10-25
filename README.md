@@ -19,4 +19,5 @@
 + [35. Search Insert Position](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/SearchInsertPosition.java)
 + [278. First Bad Version](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/FirstBadVersion.java)
 + [704. Binary Search](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/BinarySearch.java)
++ [1662. Check If Two String Arrays are Equivalent](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/CheckTwoStringArraysEquivalent.java)
 
