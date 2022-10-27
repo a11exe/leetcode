@@ -17,6 +17,7 @@
 + [28. Find the Index of the First Occurrence in a String](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/FindIndexOfFirstOccurrenceInString.java)
 + [32. Longest Valid Parentheses](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/LongestValidParentheses.java)
 + [35. Search Insert Position](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/SearchInsertPosition.java)
++ [67. Add Binary](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/AddBinary.java)
 + [278. First Bad Version](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/FirstBadVersion.java)
 + [704. Binary Search](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/BinarySearch.java)
 + [1662. Check If Two String Arrays are Equivalent](https://github.com/a11exe/leetcode/blob/main/src/main/java/org/example/CheckTwoStringArraysEquivalent.java)
